@@ -1,0 +1,10 @@
+{
+  "description": "Streamline online catering orders for Intermarché with customizable pickup and delivery options, featured products, and easy navigation for customers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
